@@ -1,0 +1,15 @@
+D:\questionaireAChoixMultiples\qcmTest1\bin\Debug\net6.0\qcmTest1.exe
+D:\questionaireAChoixMultiples\qcmTest1\bin\Debug\net6.0\qcmTest1.deps.json
+D:\questionaireAChoixMultiples\qcmTest1\bin\Debug\net6.0\qcmTest1.runtimeconfig.json
+D:\questionaireAChoixMultiples\qcmTest1\bin\Debug\net6.0\qcmTest1.dll
+D:\questionaireAChoixMultiples\qcmTest1\bin\Debug\net6.0\ref\qcmTest1.dll
+D:\questionaireAChoixMultiples\qcmTest1\bin\Debug\net6.0\qcmTest1.pdb
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.csproj.AssemblyReference.cache
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.AssemblyInfoInputs.cache
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.AssemblyInfo.cs
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.csproj.CoreCompileInputs.cache
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.dll
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\ref\qcmTest1.dll
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.pdb
+D:\questionaireAChoixMultiples\qcmTest1\obj\Debug\net6.0\qcmTest1.genruntimeconfig.cache
