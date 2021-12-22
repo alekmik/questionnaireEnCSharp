@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XruBogSEQnsMqY9W6N50FbHBjZ8/2ivPzqIkExKEQ6WOG/Y5qGIMHZ7IYzfca/PdLrtze/Zv39uNfSahzPD86Q==",
+  "dgSpecHash": "fQPJAQvOpuEkGYlQar7hjiXRD2sbwACsUDL0/NcARmauIEHvgwqdJW2s2c3gzhyGBnhCxRIAdFQpEONagYPCew==",
   "success": true,
-  "projectFilePath": "D:\\questionaireAChoixMultiples\\qcmTest1\\qcmTest1.csproj",
+  "projectFilePath": "D:\\questionnaireEnCSharp\\qcmTest1\\qcmTest1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

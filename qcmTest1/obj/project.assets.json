@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\questionaireAChoixMultiples\\qcmTest1\\qcmTest1.csproj",
+      "projectUniqueName": "D:\\questionnaireEnCSharp\\qcmTest1\\qcmTest1.csproj",
       "projectName": "qcmTest1",
-      "projectPath": "D:\\questionaireAChoixMultiples\\qcmTest1\\qcmTest1.csproj",
+      "projectPath": "D:\\questionnaireEnCSharp\\qcmTest1\\qcmTest1.csproj",
       "packagesPath": "C:\\Users\\paral\\.nuget\\packages\\",
-      "outputPath": "D:\\questionaireAChoixMultiples\\qcmTest1\\obj\\",
+      "outputPath": "D:\\questionnaireEnCSharp\\qcmTest1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paral\\AppData\\Roaming\\NuGet\\NuGet.Config",
